@@ -1,0 +1,1 @@
+SELECT E.FirstName, E.LastName, I.* FROM Employee AS E JOIN Invoice AS I WHERE Title = "Sales Support Agent";
