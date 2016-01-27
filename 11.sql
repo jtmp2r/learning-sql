@@ -1,3 +1,3 @@
 
 
--- SELECT COUNT(DISTINCT TrackId) FROM InvoiceLine;	
+SELECT COUNT(DISTINCT TrackId) FROM InvoiceLine;
